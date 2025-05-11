@@ -1,11 +1,11 @@
 import requests
 
 # 1. Candidate details for webhook generation
-NAME   = "John Doe"
-REG_NO = "REG12347"
-EMAIL  = "john@example.com"
+NAME   = "Avanish Garg"
+REG_NO = "0827CS221059"
+EMAIL  = "avanishgarg220893@acropolis.in"
 
-# 2. final SQL solution(since I got reg odd)
+# 2. final SQL solution(since my roll is odd)
 FINAL_SQL_QUERY = """
 SELECT 
     p.AMOUNT AS SALARY,
